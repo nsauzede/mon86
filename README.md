@@ -2,6 +2,10 @@
  MyMon : low level 8086 monitor / debugger
  (C) Nicolas Sauzede 2009 (nsauzede@laposte.net)
 
+NOTE: this entry was part of the OSDEV's fourth 512 byte asm contest :
+http://forum.osdev.org/viewtopic.php?f=2&t=21042
+and won the first place, yay !
+
  compile with gcc, nasm version 2.05.01; test with qemu (see Makefile)
 
  should theoretically run on any x86 cpu family, including original 8086/8088.
